@@ -4,7 +4,7 @@ SASS
 Webpack.config.js
 JS
 CSS
-ASSETS
+static
 package.json
 package-lock.json
 _config.yml
