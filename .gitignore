@@ -2,6 +2,7 @@ node_modules
 PUG
 SASS
 Webpack.config.js
+Webpack.common.js
 JS
 CSS
 static
